@@ -1,0 +1,72 @@
+body {
+    background-color: rgb(206, 206, 228);
+    margin: 0%;
+    display: inline;
+  }
+
+  @media (min-width:1601px){
+    body {
+      background-color: seagreen;
+    }
+  }
+
+  .container.top{
+    background-color: #a1ad8b;
+    height:700px;
+  }
+
+  h1.title{
+    text-align: center;
+    font-family: protest guerrilla;
+    font-style: normal;
+    font-size: 3em;
+  }
+
+  p{
+    font-family: "Playfair Display", serif;
+  }
+
+  h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: #c06b6b;
+  }
+
+  div.happy{
+    width: 300px;
+    border-radius: 30%;
+    position: relative;
+    left: 500px;
+  }
+  
+  .happy{
+    
+    padding-left: 200px;
+    overflow-clip-margin: content-box;
+  }
+
+  .btn{
+    color: #c06b6b;
+    background-color: black;
+    align-items: center;
+  }
+
+  .copyright{
+    text-align: center;
+    padding-top: 40px;
+  }
+
+  .container-footer{
+    background-color: #a1ad8b;
+    height: 100px;
+  }
+
+  .ooter-link{
+    text-align: center;
+  }
+
+  
+
+
+
+  
